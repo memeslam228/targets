@@ -2,6 +2,8 @@ http://crimea.gov.ru
 https://crimea-energy.ru
 https://vitrina-rk.rts-tender.ru
 https://rkfarm.ru
+https://budget.rk.ifinmon.ru
+https://opcrimea.ru
 tcp://212.110.158.41:80
 tcp://212.110.158.42:80
 tcp://212.110.158.43:80
@@ -14,3 +16,9 @@ tcp://185.179.85.44:80
 tcp://185.179.85.44:443
 tcp://188.124.254.186:80
 tcp://188.124.254.186:443
+tcp://185.11.196.9:80
+tcp://185.11.196.9:443
+tcp://104.21.92.68:80
+tcp://172.67.187.162:80
+tcp://104.21.92.68:443
+tcp://172.67.187.162:443
