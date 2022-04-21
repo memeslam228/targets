@@ -2,6 +2,7 @@ https://budget.rk.ifinmon.ru
 https://opcrimea.ru
 https://sevgosexpertiza.ru/
 https://sevdz.ru/
+https://www.sevzakaz.ru/
 tcp://185.11.196.9:80
 tcp://185.11.196.9:443
 tcp://104.21.92.68:80
@@ -12,3 +13,5 @@ tcp://195.161.114.131:80
 tcp://195.161.114.131:443
 tcp://213.59.160.147:80
 tcp://213.59.160.147:443
+tcp://185.71.80.26:80
+tcp://185.71.80.26:443
