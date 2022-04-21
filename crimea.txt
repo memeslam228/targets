@@ -1,8 +1,11 @@
 https://budget.rk.ifinmon.ru
 https://opcrimea.ru
+https://sevgosexpertiza.ru/
 tcp://185.11.196.9:80
 tcp://185.11.196.9:443
 tcp://104.21.92.68:80
 tcp://172.67.187.162:80
 tcp://104.21.92.68:443
 tcp://172.67.187.162:443
+tcp://195.161.114.131:80
+tcp://195.161.114.131:443
